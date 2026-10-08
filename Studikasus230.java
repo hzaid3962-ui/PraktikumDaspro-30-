@@ -47,7 +47,7 @@ public class Studikasus230 {
                 } else {
                     kurang = 4 - jumlahDokumen;
                     Status = "Dokumen tidak lengkap (kurang " + kurang
-                            + " dokumen). Dana penghargaan tidak diberikan.";
+                            + " dokumen). Dana penghargaan tidak diberikan";
                 }
             } else {
                 Status = "Tidak lolos pendanaan PKM. Dana penghargaan tidak diberikan.";
